@@ -2,5 +2,5 @@
   "versionCode": 1,
   "version": "11.10.24-Release-2",
   "zipUrl": "https://github.com/citra-standalone/download/tsp.zip",
-  "changelog": "https://github.com/citra-standalone/raw/changelog.json"
+  "changelog": "https://github.com/citra-standalone/raw/changelog.md"
 }
