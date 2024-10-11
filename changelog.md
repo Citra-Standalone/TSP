@@ -9,3 +9,4 @@ Telegram Channel: [Click Me](https://t.me/citraintegritytrick/3)
 # Release-1
 - Adding auto hide ( Hunter, TBChecker )
 - Fix NativeTest ( Detected Leaked Keybox )
+- Fix Installation error for Magisk 27 ( 27000 )
