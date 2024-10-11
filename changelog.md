@@ -6,5 +6,5 @@ Tricky Store n' Shamiko Support Module
 
 Telegram Channel: [Click Me](https://t.me/citraintegritytrick/3)
 
-# Release-2
-🚫 Do Not Update
+# Release-3
+- Doing something for XiaomiEU ROM
