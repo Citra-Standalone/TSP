@@ -1,2 +1,2 @@
 # TSP
-[Telegram Channel](t.me/citraintegritytrick)
+[Telegram Channel](https://t.me/citraintegritytrick)
