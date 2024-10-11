@@ -7,5 +7,5 @@ Tricky Store n' Shamiko Support Module
 Telegram Channel: [Click Me](https://t.me/citraintegritytrick/3)
 
 # Release-1
-- Adding auto hide ( Hunter, TBCheck )
+- Adding auto hide ( Hunter, TBChecker )
 - Fix NativeTest ( Detected Leaked Keybox )
