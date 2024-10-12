@@ -10,3 +10,5 @@ Telegram Channel: [Click Me](https://t.me/citraintegritytrick/3)
 - Adding auto hide ( Hunter, TBChecker )
 - Fix Reveny NativeTest ( Detected Leaked Keybox )
 - Fix Installation error for Magisk 27 ( 27000 )
+# Release-2
+- Fix TSP Systemless Host
