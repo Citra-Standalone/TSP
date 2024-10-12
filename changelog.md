@@ -12,4 +12,4 @@ Telegram Channel: [Click Me](https://t.me/citraintegritytrick/3)
 - Fix Installation error for Magisk 27 ( 27000 )
 # Release-2
 - Fix TSP Systemless Host
-- Fix A Keybox Issue
+- Fix A Keybox Issue ( RSA )
