@@ -11,3 +11,5 @@ Tricky Store n' Shamiko Support Module
 # Release-1
 - Fix TSP Systemless Host
 - Added support to work with PIF Fork
+# Release-2
+- Fix TSP Systemless Host
