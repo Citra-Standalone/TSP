@@ -9,7 +9,7 @@ Latest PlayIntegrityFix by chiteroman,
 Latest Tricky Store by 5ec1cff
 
 # Discussion
-[Telegram Channel](https://t.me/citraintegritytrick)
+[Telegram](https://t.me/citraintegritytrick)
 
 # Donation
 [PayPal](https://paypal.me/CitraStanalone?country.x=US&locale.x=en_US)
