@@ -5,8 +5,8 @@ This module will automatically replace TS keybox and PIF fingerprint.
 Note : Some device will not working to pass Strong Integrity
 
 # Requirements
-Latest PlayIntegrityFix by chiteroman,
-Latest Tricky Store by 5ec1cff
+* Latest PlayIntegrityFix by chiteroman
+* Latest Tricky Store by 5ec1cff
 
 # Discussion
 [Telegram](https://t.me/citraintegritytrick)
