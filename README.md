@@ -12,4 +12,4 @@ Latest Tricky Store by 5ec1cff
 [Telegram](https://t.me/citraintegritytrick)
 
 # Donation
-[PayPal](https://paypal.me/CitraStanalone?country.x=US&locale.x=en_US)
+[PAYPAL](https://paypal.me/CitraStanalone?country.x=US&locale.x=en_US)
