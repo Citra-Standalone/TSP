@@ -6,7 +6,6 @@ Note : Some device will not working to pass Strong Integrity
 
 # Requirements
 Latest PlayIntegrityFix by chiteroman
-
 Latest Tricky Store by 5ec1cff
 
 # Discussion
