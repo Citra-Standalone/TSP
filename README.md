@@ -1,6 +1,6 @@
 # TSupport ( TSP )
 
-This module will automatically replace TS keybox and PIF fingerprint with TSP.
+This module will automatically replace TS keybox and PIF fingerprint with TSP keybox/fingerprint.
 
 Note : Some device will not working to pass Strong Integrity
 
