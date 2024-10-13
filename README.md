@@ -9,7 +9,7 @@ Note : Some device will not working to pass Strong Integrity
 * Tricky Store by 5ec1cff
 
 # Discussion
-[Telegram](https://t.me/citraintegritytrick)
+[TELEGRAM](https://t.me/citraintegritytrick)
 
 # Donation
-[PAYPAL](https://paypal.me/CitraStanalone?country.x=US&locale.x=en_US)
+[PayPal](https://paypal.me/CitraStanalone?country.x=US&locale.x=en_US)
