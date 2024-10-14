@@ -60,7 +60,7 @@ Note : Some device will not working to pass Strong Integrity
 * Tricky Store by 5ec1cff
 
 ### Discussion
-[TGRAM](https://t.me/citraintegritytrick)
+[💬TGRAM](https://t.me/citraintegritytrick)
 
 ### Donation
-[PAYPAL](https://paypal.me/CitraStanalone?country.x=US&locale.x=en_US)
+[☕PAYPAL](https://paypal.me/CitraStanalone?country.x=US&locale.x=en_US)
