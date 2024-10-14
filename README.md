@@ -20,6 +20,7 @@ Auto detect TEE Broken, and help make Tricky Store working for TEE Broken device
 Troubleshooting
 </strong>
 </summary>
+
 If you are having issue with Integrity, follow below Instruction :
 
 STEP 1: Delete all module, Install PIF and check Integrity.
