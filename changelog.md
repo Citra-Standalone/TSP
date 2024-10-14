@@ -9,6 +9,7 @@ Tricky Store n' Shamiko Support Module
 <summary>Changelog</summary>
 - Change New Keybox
 </details>
+
 ## Release-2
 <details>
 <summary>Changelog</summary>
