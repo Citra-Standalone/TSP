@@ -7,7 +7,7 @@ Tricky Store n' Shamiko Support Module
 ## Release-1
 <details>
 <summary>Changelog</summary>
-- Change Keybox
+- Change New Keybox
 </details>
 
 ### Discussion
