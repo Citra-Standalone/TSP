@@ -5,7 +5,7 @@ This module will automatically replace TS keybox and PIF fingerprint with TSP ke
 <details>
 <summary>
 <strong>
-More detail
+More
 </strong>
 </summary>
 Automatically disable XiaomiEU Inject Module to give support for XEU ROM. ( might not work for some XiaomiEU ROM )
