@@ -8,7 +8,7 @@ Automatically add detection app such MoMo, Hunter, NativeDetector to denylist an
 
 Auto detect TEE Broken, and help make Tricky Store working for TEE Broken device.
 
-## Installation Guide
+## Installation Guide ( Reboot Every Step )
 - Install ZygiskNext
 - Install PlayIntegrityFix or Fork
 - Install Tricky Store
