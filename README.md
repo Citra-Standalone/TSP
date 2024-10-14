@@ -8,12 +8,13 @@ This module will automatically replace TS keybox and PIF fingerprint with TSP ke
 More Detail
 </strong>
 </summary>
-This module automatically disable XiaomiEU Inject Module to give support for XEU ROM. ( might not work for some XiaomiEU ROM )
+Automatically disable XiaomiEU Inject Module to give support for XEU ROM. ( might not work for some XiaomiEU ROM )
 
 Automatically add detection app such MoMo, Hunter, NativeDetector to denylist and spoof.
 
-Auto detect TEE Broken, and help make Tricky Store working for TEE Broken device.
+Auto detect TEE Broken, help Tricky Store working for TEE Broken device.
 </details>
+
 
 ## Installation Guide ( Reboot Every Step )
 - Install ZygiskNext
