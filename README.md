@@ -31,7 +31,7 @@ Troubleshooting
 
 If you are having issue with Integrity, follow below Instruction :
 
-STEP 1: Delete all module, Install PIF and check Integrity.
+STEP 1: Delete all module, Install ZygiskNext, PIF and check Integrity.
 
 If you pass basic and device. Youre good to go to next step.
 
