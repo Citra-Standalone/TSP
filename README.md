@@ -17,7 +17,7 @@ Auto detect TEE Broken, and help make Tricky Store working for TEE Broken device
 <details>
 <summary>
 <strong>
-Troubleshooting
+Troubleshooting ( Integrity )
 </strong>
 </summary>
 </details>
