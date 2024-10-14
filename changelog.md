@@ -9,6 +9,11 @@ Tricky Store n' Shamiko Support Module
 <summary>Changelog</summary>
 - Change New Keybox
 </details>
+## Release-2
+<details>
+<summary>Changelog</summary>
+- Remove  code ( delete XEU Inject Module )
+</details>
 
 ### Discussion
 [💬TGRAM](https://t.me/citraintegritytrick/3)
