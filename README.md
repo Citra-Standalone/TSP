@@ -16,7 +16,7 @@ Auto detect TEE Broken, help Tricky Store working for TEE Broken device.
 </details>
 
 
-## Installation Guide ( Reboot Every Step )
+### Installation Guide ( Reboot Every Step )
 - Install ZygiskNext
 - Install PlayIntegrityFix or Fork
 - Install Tricky Store
