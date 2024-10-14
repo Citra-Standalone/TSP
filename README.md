@@ -15,6 +15,8 @@ Auto detect TEE Broken, and help make Tricky Store working for TEE Broken device
 - Install TSupport ( TSP )
 
 <details>
+<summary>
+</summary>
 </details>
 
 Note : Some device will not working to pass Strong Integrity
