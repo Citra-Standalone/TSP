@@ -48,7 +48,7 @@ All Done. ( If you have anything that you don't understand, just ask in group, w
 Note : Some device will not working to pass Strong Integrity
 
 ## Requirements
-* PlayIntegrityFix by chiteroman
+* PlayIntegrityFix by chiteroman or Fork by Osmosis
 * Tricky Store by 5ec1cff
 
 ## Discussion
