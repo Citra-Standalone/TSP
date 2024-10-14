@@ -16,7 +16,7 @@ Auto detect TEE Broken, help Tricky Store working for TEE Broken device.
 </details>
 
 
-### Installation Guide ( Reboot Every Step )
+## Installation Guide ( Reboot Every Step )
 - Install ZygiskNext
 - Install PlayIntegrityFix or Fork
 - Install Tricky Store
@@ -59,8 +59,8 @@ Note : Some device will not working to pass Strong Integrity
 * PlayIntegrityFix by chiteroman or Fork by Osmosis
 * Tricky Store by 5ec1cff
 
-## Discussion
+### Discussion
 [TGRAM](https://t.me/citraintegritytrick)
 
-## Donation
+### Donation
 [PAYPAL](https://paypal.me/CitraStanalone?country.x=US&locale.x=en_US)
