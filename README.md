@@ -11,7 +11,7 @@ More
 
 Shamiko mode changer to blacklist/whitelist. simply click Action button. ( Only available for Magisk 27008+ )
 
-Automatically disable XiaomiEU Inject Module to give support for XEU ROM. ( might not work for some XiaomiEU ROM )
+Automatically disable XiaomiEU Inject Module to give support for XEU ROM. ( might not work for some XiaomiEU ROM, expecialy older XEU ROM )
 
 Automatically add detection app such MoMo, Hunter, NativeDetector to denylist and spoof.
 
