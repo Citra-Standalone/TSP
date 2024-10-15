@@ -7,13 +7,9 @@ Tricky Store n' Shamiko Support Module
 ## Release-1
 <details>
 <summary>Changelog</summary>
-- Change New Keybox
-</details>
-
-## Release-2
-<details>
-<summary>Changelog</summary>
-- Remove  code ( delete XEU Inject Module )
+- Add Rooting Method Detection
+- Fix KSU Installation Fail
+- Support for Magisk lower than 27008
 </details>
 
 ### Discussion
