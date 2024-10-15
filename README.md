@@ -8,6 +8,7 @@ This module will automatically replace TS keybox and PIF fingerprint with TSP ke
 More
 </strong>
 </summary>
+
 Automatically disable XiaomiEU Inject Module to give support for XEU ROM. ( might not work for some XiaomiEU ROM )
 
 Automatically add detection app such MoMo, Hunter, NativeDetector to denylist and spoof.
