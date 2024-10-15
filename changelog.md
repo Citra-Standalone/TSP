@@ -1,4 +1,4 @@
-# TSupport-15.10.24
+# TSupport-16.10.24
 
 Citra, a standalone implementation, leaves a trace in IoT.
 
@@ -8,19 +8,8 @@ Tricky Store n' Shamiko Support Module
 <details>
 <summary>Changelog</summary>
 
-- Add Rooting Method Detection
-- Fix KSU Installation Fail
-- Support for Magisk lower than 27008
-</details>
-
-## Release-2
-<details>
-<summary>Changelog</summary>
-
-- Auto add app to target.txt
+- Bug fixes
 </details>
 
 ### Discussion
 [💬TGRAM](https://t.me/citraintegritytrick/3)
-### Donation
-[☕PayPal](https://paypal.me/CitraStanalone?country.x=US&locale.x=en_US)
