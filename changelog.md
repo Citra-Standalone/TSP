@@ -13,6 +13,13 @@ Tricky Store n' Shamiko Support Module
 - Support for Magisk lower than 27008
 </details>
 
+## Release-2
+<details>
+<summary>Changelog</summary>
+
+- Auto add app to target.txt
+</details>
+
 ### Discussion
 [💬TGRAM](https://t.me/citraintegritytrick/3)
 ### Donation
