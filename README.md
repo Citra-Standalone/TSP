@@ -9,7 +9,7 @@ More
 </strong>
 </summary>
 
-Shamiko mode changer blacklist or whitelist. simply click Action button. ( Only available for Magisk 27008+ )
+Shamiko mode changer to blacklist/whitelist. simply click Action button. ( Only available for Magisk 27008+ )
 
 Automatically disable XiaomiEU Inject Module to give support for XEU ROM. ( might not work for some XiaomiEU ROM )
 
