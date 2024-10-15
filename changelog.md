@@ -7,6 +7,7 @@ Tricky Store n' Shamiko Support Module
 ## Release-1
 <details>
 <summary>Changelog</summary>
+
 - Add Rooting Method Detection
 - Fix KSU Installation Fail
 - Support for Magisk lower than 27008
